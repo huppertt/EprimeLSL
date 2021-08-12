@@ -1,0 +1,5 @@
+LIBRARY	EprimeLSLStimulus
+
+EXPORTS	LSLinit
+		LSLmarker
+		LSLclose
